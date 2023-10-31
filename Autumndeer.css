@@ -1,0 +1,325 @@
+@media (min-width:768px) {
+body {
+background: url('http://i.imgur.com/8ZEOe8t.jpg') center center fixed !important;
+background-repeat: no-repeat;
+background-size: 100%;
+color: #FFFFFF !important
+}
+}
+
+@media (max-width: 768px) {
+body {
+background: url('http://i.imgur.com/8ZEOe8t.jpg') center center fixed !important;
+background-repeat: no-repeat;
+background-size: 100%;
+width: auto !important;
+min-width: 600px !important;
+}
+}
+
+.col-md-9.col-xs-12 {
+background: rgba(0, 0, 0, 0.2)  !important;
+border: none !important;
+border-top: none !important;
+border-right: none !important;
+border-bottom :none !important;
+}
+
+div.container.main {
+background: rgba(0, 0, 0, 0.2) !important;
+border: none !important;
+border-left: none !important;
+}
+
+.navbar {
+background: rgba(66, 26, 0, 0.8) !important;
+border: none !important;
+border-bottom: none !important;
+border-top: none !important;
+border-right: none !important;
+box-shadow: none !important;
+font-family: 'Palatino LT STD';
+}
+
+.navbar li a {
+color: #CCBCB1 !important;
+}
+
+.navbar li a:hover {
+background: #AF7B59 !important;
+}
+
+.breadcrumb {
+background: rgba(66, 26, 0, 0.8) !important;
+color: #CCBCB1 !important;
+border: 1px solid #873819 !important;
+}
+
+.feature {
+background: rgba(0, 0, 0, 0.2) !important;
+color: #C3DAE8!important;
+border: 1px solid #873819 !important;
+}
+
+.topbar {
+background: rgba(66, 26, 0, 0.8) !important;
+color: #CCBCB1 !important;
+border: 1px solid #873819 !important;
+border-top: none !important;
+border-bottom: 1px solid #873819 !important;
+}
+
+.sidebar {
+background: rgba(0, 0, 0, 0.2) !important;
+color: #CCBCB1 !important;
+border: none !important;
+}
+
+.panel {
+background: rgba(66, 26, 0, 0.8) !important;
+border: none !important;
+box-shadow: none !important;
+}
+
+.chat_light {
+background: rgba(135, 83, 50, 0.8) !important;
+color: #FFFFFF !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+}
+
+.chat_dark {
+background: rgba(105, 41, 0, 0.8) !important;
+color: #FFFFFF !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+}
+
+h1 {
+text-align: center !important;
+color: #FFFFFF !important;
+font-family: 'Palatino LT STD' !important;
+}
+
+h3 {
+text-align: center !important;
+color: #FFFFFF !important;
+font-family: 'Palatino LT STD' !important;
+}
+
+.top {
+background: rgba(66, 26, 0, 0.8) !important;
+color: #CCBCB1 !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+font-family: 'Palatino LT STD' !important;
+}
+
+th {
+background: rgba(66, 26, 0, 0.8) !important;
+color: #CCBCB1 !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+font-family: 'Palatino LT STD' !important;
+}
+
+.bottom {
+background: rgba(66, 26, 0, 0.8) !important;
+color: #CCBCB1 !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+font-family: 'Palatino LT STD' !important;
+}
+
+.left {
+background: rgba(66, 26, 0, 0.8) !important;
+color: #CCBCB1 !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+font-family: 'Palatino LT STD' !important;
+}
+
+td {
+background: rgba(105, 41, 0, 0.6) !important;
+color: #FFFFFF !important;
+border: none !important;
+}
+
+.right_cub {
+background: rgba(159, 117, 90, 0.6) !important;
+}
+
+a:link {
+color: #FFFFFF !important;
+}
+
+a:visited {
+color: #FFFFFF !important;
+}
+
+a:hover {
+color: #cccccc !important;
+}
+
+.alert-danger {
+background: rgba(135, 83, 50, 0.8) !important;
+color: #FFFFFF !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+}
+
+.alert-success {
+background: rgba(135, 83, 50, 0.8) !important;
+color: #FFFFFF !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+}
+
+.attack-won {
+background: rgba(135, 83, 50, 0.8) !important;
+color: #FFFFFF !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+}
+
+.attack-lost {
+background: rgba(135, 83, 50, 0.8) !important;
+color: #FFFFFF !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+}
+
+input[type="button"] {
+background: rgba(135, 83, 50, 0.8) !important;
+color: #FFFFFF !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="submit"] {
+background: rgba(135, 83, 50, 0.8) !important;
+color: #FFFFFF !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="text"] {
+background: rgba(135, 83, 50, 0.8) !important;
+color: #FFFFFF !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="password"] {
+background: rgba(135, 83, 50, 0.8) !important;
+color: #FFFFFF !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+textarea {
+background: rgba(135, 83, 50, 0.8) !important;
+color: #C3DAE8 !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+select {
+background: rgba(135, 83, 50, 0.8) !important;
+color: #C3DAE8 !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="button"]:hover {
+background: rgba(159, 117, 90, 0.8) !important;
+color: #FFFFFF !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="submit"]:hover {
+background: rgba(159, 117, 90, 0.8) !important;
+color: #FFFFFF !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="text"]:focus {
+background: rgba(159, 117, 90, 0.8) !important;
+color: #FFFFFF !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="password"]:focus {
+background: rgba(159, 117, 90, 0.8) !important;
+color: #FFFFFF !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+textarea:focus {
+background: rgba(159, 117, 90, 0.8) !important;
+color: #FFFFFF !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+select:focus {
+background: rgba(159, 117, 90, 0.8) !important;
+color: #FFFFFF !important;
+border: 1px solid #873819 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+.progress {
+background: rgba(105, 41, 0, 0.8) !important;
+border: 1px solid #873819 !important;
+}
+
+.progress div {
+color: #FFFFFF !important;
+}
+
+.progress-bar-warning {
+background: rgba(135, 83, 50, 0.8) !important;
+}
+
+.progress-bar-danger {
+background: rgba(135, 83, 50, 0.8) !important;
+}
+
+.progress-bar-success {
+background: rgba(135, 83, 50, 0.8) !important;
+}
+
+.progress-bar {
+background: rgba(135, 83, 50, 0.8) !important;
+}
+
+
